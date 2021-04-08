@@ -12,7 +12,7 @@
 	<artifactId>bookshelf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Bookshelf</name>
-	<description>Sample roject for Spring Boot Workshop</description>
+	<description>Sample project for Spring Boot Workshop</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
